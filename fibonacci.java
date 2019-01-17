@@ -1,4 +1,4 @@
-public class Prabin  
+public class Prabinn
 { 
     static int sumevenFib(int limit) 
     { 
